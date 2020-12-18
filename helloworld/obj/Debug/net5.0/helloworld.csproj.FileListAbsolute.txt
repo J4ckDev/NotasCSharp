@@ -1,0 +1,16 @@
+/home/jackdev/Documentos/CSharpCourse/helloworld/bin/Debug/net5.0/helloworld
+/home/jackdev/Documentos/CSharpCourse/helloworld/bin/Debug/net5.0/helloworld.deps.json
+/home/jackdev/Documentos/CSharpCourse/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.json
+/home/jackdev/Documentos/CSharpCourse/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.dev.json
+/home/jackdev/Documentos/CSharpCourse/helloworld/bin/Debug/net5.0/helloworld.dll
+/home/jackdev/Documentos/CSharpCourse/helloworld/bin/Debug/net5.0/ref/helloworld.dll
+/home/jackdev/Documentos/CSharpCourse/helloworld/bin/Debug/net5.0/helloworld.pdb
+/home/jackdev/Documentos/CSharpCourse/helloworld/obj/Debug/net5.0/helloworld.csprojAssemblyReference.cache
+/home/jackdev/Documentos/CSharpCourse/helloworld/obj/Debug/net5.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/jackdev/Documentos/CSharpCourse/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfoInputs.cache
+/home/jackdev/Documentos/CSharpCourse/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfo.cs
+/home/jackdev/Documentos/CSharpCourse/helloworld/obj/Debug/net5.0/helloworld.csproj.CoreCompileInputs.cache
+/home/jackdev/Documentos/CSharpCourse/helloworld/obj/Debug/net5.0/helloworld.dll
+/home/jackdev/Documentos/CSharpCourse/helloworld/obj/Debug/net5.0/ref/helloworld.dll
+/home/jackdev/Documentos/CSharpCourse/helloworld/obj/Debug/net5.0/helloworld.pdb
+/home/jackdev/Documentos/CSharpCourse/helloworld/obj/Debug/net5.0/helloworld.genruntimeconfig.cache
